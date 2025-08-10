@@ -104,5 +104,7 @@ For Cursor:
 New ones to be added:
 shd101wyy.markdown-preview-enhanced
 WallabyJs.quokka-vscode
+imgildev.vscode-auto-barrel
+imgildev.vscode-nextjs-generator
 
 ```
