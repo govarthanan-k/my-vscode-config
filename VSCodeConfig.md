@@ -99,4 +99,10 @@ For VS Code:
 
 For Cursor:
 "dsznajder.es7-react-js-snippets","jmkrivocapich.drawfolderstructure","mariusalchimavicius.json-to-ts","nrwl.angular-console","viktorqvarfordt.vscode-pitch-black-theme","aaron-bond.better-comments","adpyke.codesnap","bradlc.vscode-tailwindcss","cardinal90.multi-cursor-case-preserve","chakrounanas.turbo-console-log","dbaeumer.vscode-eslint","eamodio.gitlens","esbenp.prettier-vscode","formulahendry.auto-rename-tag","formulahendry.auto-close-tag","github.github-vscode-theme","gruntfuggly.todo-tree","johnpapa.winteriscoming","meganrogge.template-string-converter","naumovs.color-highlight","pkief.material-icon-theme","pranaygp.vscode-css-peek","ritwickdey.liveserver","liamhammett.inline-parameters","usernamehw.errorlens","vincaslt.highlight-matching-tag","vitest.explorer","vunguyentuan.vscode-css-variables","wallabyjs.console-ninja","xabikos.javascriptsnippets","yoavbls.pretty-ts-errors","csstools.postcss","streetsidesoftware.code-spell-checker","oderwat.indent-rainbow","shardulm94.trailing-spaces","ms-playwright.playwright","wmaurer.change-case","alefragnani.bookmarks","styled-components.vscode-styled-components","AykutSarac.jsoncrack-vscode","gera2ld.markmap-vscode","DavidAnson.vscode-markdownlint","github.copilot","github.copilot-chat","anthropic.claude-code" -split "," | ForEach-Object { cursor --install-extension $_ }
+
+
+New ones to be added:
+shd101wyy.markdown-preview-enhanced
+WallabyJs.quokka-vscode
+
 ```
